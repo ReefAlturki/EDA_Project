@@ -3,10 +3,12 @@ The goal of this project is to determine the most dangerous borough in NYC and t
 <img src="https://github.com/ReefSA/EDA_Project/blob/main/photo.png" width="500" height="300">
 
 
-To determine the most dangerous borough, I used pandas to perform exploratory analysis on the ‘Complaint data’ dataset. 
 
-The figure shows that Brooklyn has the highest crime rate. I will use the MTA dataset to identify the most crowded stations in Brooklyn. 
+The figure shows that Brooklyn has the highest crime rate. In addition, it is also found that the crimes rate is high from 12 until 22. 
+
 
 <img src="https://github.com/ReefSA/EDA_Project/blob/main/photo1.png" width="500" height="300">
 
 This figure shows the most crowded stations in Brooklyn when the crime rate is high from 12 until 22. 
+
+The next step is to ingest the data into a cloud database and apply the same analysis steps performed earlier.
