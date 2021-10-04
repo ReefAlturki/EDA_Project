@@ -10,5 +10,3 @@ The figure shows that Brooklyn has the highest crime rate. In addition, it is al
 <img src="https://github.com/ReefSA/EDA_Project/blob/main/photo1.png" width="800" height="300">
 
 This figure shows the most crowded stations in Brooklyn when the crime rate is high from 12 until 22. 
-
-The next step is to ingest the data into a cloud database and apply the same analysis steps performed earlier.
