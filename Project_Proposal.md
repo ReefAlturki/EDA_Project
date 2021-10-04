@@ -34,8 +34,7 @@ The third dataset is about MTA Turnstile Data. It is obtained from  http://web.
 **Tools:**
 * How do you intend to meet the tools requirement of the project?
 
-For the MTA dataset, I will ingest the raw data of the MTA Turnstile Data into a database and will query the database into pandas dataframe. Exploring and cleaning the data will be done in pandas. After that, I will use python visualization libraries to draw some plots and derive final insights.
-For the additional datasets, loading the data, exploring, cleaning and visualizing the data will be done in pandas.
+I will ingest the raw data of the datasets into a database and will query the database into pandas dataframe. Exploring and cleaning the data will be done in pandas. After that, I will use python visualization libraries to draw some plots and derive final insights.
 
 * Are you planning in advance to need or use additional tools beyond those required?
 
