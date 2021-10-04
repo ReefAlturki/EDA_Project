@@ -22,7 +22,7 @@ control over these stations and the crime rate will be lower.
 
 * What dataset(s) do you plan to use, and how will you obtain the data?
 
-The first dataset is to analyze the rate of crimes in each borough and find the borough with the highest number of crimes. It is obtained from NYC open data website. It is available at https://www.kaggle.com/brunacmendes/nypd-complaint-data-historic-20062019
+The first dataset is to analyze the rate of crimes in each borough and find the borough with the highest number of crimes, and hours when crimes are likely to occur. It is obtained from NYC open data website. It is available at https://www.kaggle.com/brunacmendes/nypd-complaint-data-historic-20062019
 
 The second dataset is about NYC Turnstiles Station List. To find the stations located in the borough with the highest crime rate. It is obtained from GitHub. It is available at http://web.mta.info/developers/data/nyct/subway/Stations.csv
 
