@@ -10,3 +10,4 @@ This project requires python 3.x and the following python libraries:
 * Sqlite3
 
 ## Table of contents
+* [Proposal](https://github.com/ReefSA/EDA_Project/blob/main/Project_Proposal.md)
