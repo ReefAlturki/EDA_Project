@@ -2,14 +2,14 @@
 
 
 
-**Question/need:**
+## Question/need:
 
-* What is the framing question of your analysis, or the purpose of the model/system you plan to build?
+**What is the framing question of your analysis, or the purpose of the model/system you plan to build?**
 
 What are the crowded stations in the borough with the highest crime level as the surveillance level should be increased?
 
 
-* Who benefits from exploring this question or building this model/system?
+**Who benefits from exploring this question or building this model/system?**
 
 The police department as they can increase the number of security
 gurads in these stations. Therefore, they can increase the level of
@@ -18,9 +18,9 @@ control over these stations and the crime rate will be lower.
 
 
 
-**Data Description:**
+## Data Description:
 
-* What dataset(s) do you plan to use, and how will you obtain the data?
+**What dataset(s) do you plan to use, and how will you obtain the data?**
 
 The first dataset is to analyze the rate of crimes in each borough and find the borough with the highest number of crimes, and hours when crimes are likely to occur. It is obtained from NYC open data website.
 
@@ -37,8 +37,8 @@ It is obtained from  http://web.mta.info/developers/turnstile.html
 
 
 
-**Tools:**
-* How do you intend to meet the tools requirement of the project?
+## Tools:
+**How do you intend to meet the tools requirement of the project?**
 
 * Numpy and pandas to perfom data manipulations.
 * Matplotlib to plot visulalizations
