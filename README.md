@@ -14,3 +14,6 @@ This project requires python 3.x and the following python libraries:
 * [Project MVP](https://github.com/ReefSA/EDA_Project/blob/main/MVP.md)
 * [Project Code](https://github.com/ReefSA/EDA_Project/blob/main/EDA_Project.ipynb)
 * [Presentation](https://github.com/ReefSA/EDA_Project/blob/main/EDAPresentation.pdf)
+
+## Disclaimer
+The code presented in this project is only for reference purposes.
