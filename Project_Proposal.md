@@ -40,6 +40,7 @@ It is obtained from  http://web.mta.info/developers/turnstile.html
 ## Tools:
 **How do you intend to meet the tools requirement of the project?**
 
+The following libraries will be used in order to successfully complete the project.
 * Numpy and pandas to perfom data manipulations.
 * Matplotlib to plot visulalizations
 * Sqlite3 to create a local database
