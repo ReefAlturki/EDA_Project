@@ -10,7 +10,7 @@ This project requires python 3.x and the following python libraries:
 * Sqlite3
 
 ## Table of contents
-* [Proposal](https://github.com/ReefSA/EDA_Project/blob/main/Project_Proposal.md)
-* [MVP](https://github.com/ReefSA/EDA_Project/blob/main/MVP.md)
-* [Code](https://github.com/ReefSA/EDA_Project/blob/main/EDA_Project.ipynb)
+* [Project Proposal](https://github.com/ReefSA/EDA_Project/blob/main/Project_Proposal.md)
+* [Project MVP](https://github.com/ReefSA/EDA_Project/blob/main/MVP.md)
+* [Project Code](https://github.com/ReefSA/EDA_Project/blob/main/EDA_Project.ipynb)
 * [Presentation](https://github.com/ReefSA/EDA_Project/blob/main/EDAPresentation.pdf)
