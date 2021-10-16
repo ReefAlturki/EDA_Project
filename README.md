@@ -8,6 +8,7 @@ This project requires python 3.x and the following python libraries:
 * Panda
 * Matplotlib
 * Sqlite3
+* SqlAlchemy
 
 ## Table of contents
 * [Project Proposal](https://github.com/ReefSA/EDA_Project/blob/main/Project_Proposal.md)
