@@ -1,13 +1,15 @@
 # EDA Project Proposal
 
 
+## Backstory
+
+New York has the highest population density of any major city in the United States. Recently, the crime figures are threatening to undermine that sense of safety according to police statistics. 
 
 ## Question/need:
 
 **What is the framing question of your analysis, or the purpose of the model/system you plan to build?**
 
-What are the crowded stations in the borough with the highest crime level as the surveillance level should be increased.
-
+This project helps the police department to find the most dangerous stations in NYC so they can increase the level of surveillance over these stations and the areas nearby so that the crime rate will be lower.
 
 **Who benefits from exploring this question or building this model/system?**
 
