@@ -6,7 +6,7 @@
 
 **What is the framing question of your analysis, or the purpose of the model/system you plan to build?**
 
-What are the crowded stations in the borough with the highest crime level as the surveillance level should be increased?
+What are the crowded stations in the borough with the highest crime level as the surveillance level should be increased.
 
 
 **Who benefits from exploring this question or building this model/system?**
