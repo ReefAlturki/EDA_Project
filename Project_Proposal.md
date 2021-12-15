@@ -14,9 +14,7 @@ This project helps the police department to find the most dangerous stations in 
 **Who benefits from exploring this question or building this model/system?**
 
 The police department as they can increase the number of security
-gurads in these stations. Therefore, they can increase the level of
-control over these stations and the crime rate will be lower.
-
+gurads in these stations.
 
 
 
