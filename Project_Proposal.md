@@ -3,7 +3,7 @@
 
 ## Backstory
 
-New York has the highest population density of any major city in the United States. Recently, the crime figures are threatening to undermine that sense of safety according to police statistics. 
+New York has the highest population density of any major city in the United States. Recently, the crime figures are threatening to undermine the sense of safety according to police statistics. 
 
 ## Question/need:
 
